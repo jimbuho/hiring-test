@@ -2,3 +2,6 @@
     virtualenv -p python3 ve_hiringtest
     source ve_hiringtest/bin/activate
     pip install flake8 pytest
+    
+    Ejecutar:
+    pytest
